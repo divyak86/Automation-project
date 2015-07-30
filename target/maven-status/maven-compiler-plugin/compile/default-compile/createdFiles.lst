@@ -1,0 +1,10 @@
+com\mycompany\app\TestProperties.class
+com\mycompany\app\ScheduleAWebinarPageObjects.class
+com\mycompany\app\ReadConfigFile.class
+com\mycompany\app\HomePageObjects.class
+com\mycompany\app\LoginPage.class
+com\mycompany\app\ScheduleNewWebinarPageObjects.class
+com\mycompany\app\App.class
+com\mycompany\app\LoginPageObject.class
+com\mycompany\app\ScheduleAWebinarPage.class
+com\mycompany\app\SchedulePage.class
