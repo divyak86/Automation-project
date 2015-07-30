@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68905" started-at="2015-07-30T04:25:06Z" finished-at="2015-07-30T04:26:15Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="68905" started-at="2015-07-30T04:25:06Z" finished-at="2015-07-30T04:26:15Z">
+      <class name="com.mycompany.app.ScheduleAWebinarPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mycompany.app.ScheduleAWebinarPage@6e8dacdf]" name="setup" is-config="true" duration-ms="17276" started-at="2015-07-29T21:25:06Z" finished-at="2015-07-29T21:25:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ScheduleWebinar()[pri:0, instance:com.mycompany.app.ScheduleAWebinarPage@6e8dacdf]" name="ScheduleWebinar" duration-ms="51573" started-at="2015-07-29T21:25:23Z" finished-at="2015-07-29T21:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScheduleWebinar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.mycompany.app.ScheduleAWebinarPage@6e8dacdf]" name="teardown" is-config="true" duration-ms="17" started-at="2015-07-29T21:26:15Z" finished-at="2015-07-29T21:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.mycompany.app.ScheduleAWebinarPage -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
